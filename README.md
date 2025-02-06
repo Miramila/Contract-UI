@@ -35,4 +35,4 @@ contract-ui/
 
 ## Final Result
 Here's the final result screenshot for Contract UI Application.
-![alt text](images/final_result.png)
+![alt text](./images/final_result.png)
